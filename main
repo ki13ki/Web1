@@ -1,0 +1,21 @@
+selector{
+	property:value;
+}
+p{
+
+}
+p#container{
+	color:blue;
+}
+p.error{
+	color: red;
+}
+h1{
+
+}
+h1,p{
+	font-family:Arial;
+	color:blue;
+}
+
+
